@@ -1,13 +1,11 @@
 {
-  "name": "elasticquent/elasticquent",
+  "name": "eiles/elasticquent",
   "type": "library",
   "description": "Maps Laravel Eloquent models to Elasticsearch types.",
   "keywords": [
-    "elasticsearch",
-    "eloquent",
     "laravel"
   ],
-  "homepage": "https://github.com/elasticquent/Elasticquent",
+  "homepage": "https://github.com/Eiles/Elasticquent",
   "license": "MIT",
   "authors": [
     {
